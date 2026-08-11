@@ -1,0 +1,1 @@
+qemu-system-i386 -cdrom build/seros.iso -boot d
